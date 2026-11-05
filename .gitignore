@@ -1,0 +1,8 @@
+/target
+/debug
+.env
+*.log
+*.pdb
+*.rs.bk
+.DS_Store
+rustc-ice-*.txt
